@@ -1,4 +1,4 @@
-![image](https://github.com/krzysztof99xd/krzysztof99xd/assets/83342963/b267b462-d8ea-4a64-9722-a3cd00257f70)### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
+### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
 + 🎓  Bachelor in Business Information Technology at University of Twente 
 + 🎓  Master, Data Science in Business and Entrepreneurship at JADS 
 
