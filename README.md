@@ -1,25 +1,11 @@
 ### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
-🎓  Bachelor in Business Information Technology at University of Twente 
-🎓  Masters, Data Science in Business and Entrepreneurship at JADS
-
-I have an experience with the following techstack (Java, Spring Boot, GraphQL, JavaScript, HTML, CSS)
-
-For my Bachelor thesis I did a project in Data Science together with a Dutch forecast service provider about predicitng time series of water levels in the Caspian Sea. 
-
-I am currently pursuing Master in Data Science where I want to specialize in Data Engineering field. 
-
-💬  Speaking English🇬🇧, Polish, and Dutch🇳🇱
+<ul>
++ 🎓  Bachelor in Business Information Technology at University of Twente 
++ 🎓  Masters, Data Science in Business and Entrepreneurship at JADS 
+</ul>
 
 
-
-### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
-🎓  Bachelor in Business Information Technology at University of Twente 
-🎓  Masters, Data Science in Business and Entrepreneurship at JADS 
-
-
-💬  Speaking English🇬🇧, Polish, and Dutch🇳🇱
-
-I have one year experience in Web Development where I was working with the following tech stack:
+<h2>I have one year experience in Web Development where I was working with the following tech stack </h2>:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
@@ -28,17 +14,18 @@ I have one year experience in Web Development where I was working with the follo
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 
-For my Bachelor thesis I did a project in Data Science together with a Dutch forecast service provider about predicitng time series of water levels in the Caspian Sea. The project involved bulding pipelines for preprocessing the data as well as training and testing ML models. 
+<h2>For my Bachelor thesis I did a project in Data Science together with a Dutch forecast service provider about predicitng time series of water levels in the Caspian Sea. The project involved bulding pipelines for preprocessing the data as well as training and testing ML models. </h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p 
 
   
-I am currently pursuing Master in Data Science where I want to specialize in Data Engineering field. 
+<h2>I am currently pursuing Master in Data Science where I want to specialize in Data Engineering field. </h2>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   
   
-  
+💬  Speaking English🇬🇧, Polish, and Dutch🇳🇱
+
 <!--
 **krzysztof99xd/krzysztof99xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
