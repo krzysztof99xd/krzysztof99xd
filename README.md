@@ -1,4 +1,4 @@
-### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
+![image](https://github.com/krzysztof99xd/krzysztof99xd/assets/83342963/b267b462-d8ea-4a64-9722-a3cd00257f70)### Hi there, I am Krzysztof, a Computer Science enthousiast.👋
 + 🎓  Bachelor in Business Information Technology at University of Twente 
 + 🎓  Master, Data Science in Business and Entrepreneurship at JADS 
 
@@ -19,6 +19,7 @@
 🎓 Currently pursuing Master in Data Science where I want to specialize in Data Engineering field.
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a>
   
+<a <img src="https://cdn4.iconfinder.com/data/icons/colicon/24/checkmark_done_complete-512.png" alt="kafka" width="20" height="20"/> </a> 
   
   💬 Speaking English🇬🇧, Polish, and Dutch🇳🇱
 
